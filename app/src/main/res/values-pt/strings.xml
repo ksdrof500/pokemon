@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokemon Finder</string>
+    <string name="error_login">Tente novamente</string>
+    <string name="exit">Presione voltar para sair</string>
+    <string name="lets_go">Vamos lá</string>
+    <string name="name">Nome</string>
+    <string name="name_subtitle">… Qual seu tipo de pokemon favorito</string>
+    <string name="name_title">Olá, treinador %s</string>
+    <string name="search">Buscar</string>
+    <string name="search_hint">Buscar pelo nome</string>
+    <string name="error_select_type">Necessário selecionar um tipo</string>
+
+</resources>

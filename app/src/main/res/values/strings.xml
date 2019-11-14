@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pokemon Finder</string>
+    <string name="lets_go">Let\'s go!</string>
+    <string name="name_title">Hello, trainer %s</string>
+
+    <string name="name_subtitle">… now tell us witch is your favorite Pokémon type:</string>
+
+    <string name="search_hint">Searching name pokemon</string>
+    <string name="search">Search</string>
+
+    <string name="exit">Please click BACK again to exit</string>
+
+    <string name="url_terms" translatable="false">https://policies.google.com/terms?hl=en-US</string>
+    <string name="url_privacy" translatable="false">https://policies.google.com/privacy?hl=en-US</string>
+    <string name="pokemon" translatable="false">Pokemon</string>
+    <string name="name">Name</string>
+    <string name="error_login">Try again!</string>
+    <string name="error_select_type">Need to select a type</string>
+
+</resources>
